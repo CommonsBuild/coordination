@@ -1,13 +1,20 @@
-## 📋   Anything to add?
+## 📋 Anything to add?
 
-## 🎉   Subtasks
+
+## ⏰ Urgency?
+
+
+## ❓ Why is it important?
+
+
+## 🎉 Subtasks
 
 - [ ] 
 - [ ] 
 - [ ] 
 
-## 🤼‍♂️   Reviewer
+## 🤼‍ Reviewer
 
 @
 
-## 🔗   Work doc - inspirational links
+## 🔗 Work doc - inspirational links
