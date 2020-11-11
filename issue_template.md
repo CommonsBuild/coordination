@@ -1,10 +1,13 @@
 ## 📋 Anything to add?
 
 
-## ⏰ Urgency?
+
+## ⏰ Urgency/Due Date/Blockers?
+
 
 
 ## ❓ Why is it important?
+
 
 
 ## 🎉 Subtasks
