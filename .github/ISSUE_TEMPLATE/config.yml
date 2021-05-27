@@ -1,4 +1,7 @@
 contact_links:
+  - name: Default
+    url: https://github.com/CommonsBuild/coordination/issues/new
+    about: Open issue with the Default Template
   - name: Token Engineering Commons
     url: https://tecommons.org/
     about: Learn about the TEC
