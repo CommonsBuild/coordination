@@ -7,8 +7,7 @@
 2.
 3.
 
-
-##🧍🏻‍♀️🧍🏻‍♂️ Who should be part of the Advice Process? (People who should be consulted about this issue. Those who will have valuable input.)
+## 🧍🏻‍♀️🧍🏻‍♂️  Who should be part of the Advice Process? (People who should be consulted about this issue. Those who will have valuable input.)
 @
 
 
