@@ -1,17 +1,20 @@
 ---
 name: For Contributors
-about: 'Template for issues, specifically open to contributions from the community'
+about: Template for issues, specifically open to contributions from the community
 title: ''
-labels: 'For Contributors'
+labels: For Contributors
 assignees: ''
 
 ---
 
-Welcome! This is an issue for any contributor to pick up so, if you want to contribute to the TEC mission, then you’ve come to the right place. 
+✅  Are you looking for some way to contribute to TEC? 
+✅  Want to volunteer and get rewarded with [Praise](https://forum.tecommons.org/t/reward-system-moving-forward/570)? 
+
+Welcome! This is an issue that any contributor to pick up so, if you want to contribute to the TEC mission, then you’ve come to the right place. 
 
 If you’re not already on our Discord server, now is the best time to join us there: https://discord.gg/V9gQ2mRU9u
 
-The Community Steward that will support and review this work is : @ 
+The Steward that will support and review this work is : @ 
 
 ## 👇🏽  What is this issue about?
 <!-- Give as much detail as you can -->
